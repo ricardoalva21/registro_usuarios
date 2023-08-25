@@ -1,0 +1,19 @@
+{
+  "perfil": [
+    {
+      "nombre": "Paco",
+      "email": "pacoloco@hotmail.com",
+      "id": "24f5027a-13f7-4d3b-970f-b0655fa523a2"
+    },
+    {
+      "nombre": "Ricardo David",
+      "email": "hrkalvarado@gmail.com",
+      "id": "2e703c30-5a2b-497f-9a21-65057388b029"
+    },
+    {
+      "nombre": "Khris",
+      "email": "kh@hotHOTmail.com",
+      "id": "f6f6c7cf-a22c-435b-9340-3c602e5043f8"
+    }
+  ]
+}
